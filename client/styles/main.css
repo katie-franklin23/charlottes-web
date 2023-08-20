@@ -1,0 +1,41 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.middle-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.blogs,
+.new-posts,
+.recent-entries {
+  margin: 0 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.new-posts {
+  flex: 3; /* Takes up 60% of the width */
+}
+
+.blogs,
+.recent-entries {
+  flex: 1;
+}
+.footer {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-top: auto;
+  text-align: center;
+}
