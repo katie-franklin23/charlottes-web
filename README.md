@@ -1,6 +1,6 @@
 # Charlotte's Web Log
 
-In this exercise, we're going to use modular React components to build a blog for Charlotte. The text content and a wireframe showing the suggested layout have been provided.
+This application, developed during a Dev Academy project, showcases my proficiency in utilizing TypeScript, React, HTML, and CSS. Throughout the project, I honed my skills in designing and implementing various components that constitute the web page. Moreover, I successfully integrated data into these components, ensuring seamless rendering of the page
 
 ![Charlotte's Web logo](charlottes-web.png)
 
