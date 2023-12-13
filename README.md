@@ -2,6 +2,8 @@
 
 This application, developed during a Dev Academy project, showcases my proficiency in utilizing TypeScript, React, HTML, and CSS. Throughout the project, I honed my skills in designing and implementing various components that constitute the web page. Moreover, I successfully integrated data into these components, ensuring seamless rendering of the page.
 
+https://charlottes-web.vercel.app/
+
 ![Charlotte's Web logo](charlottes-web.png)
 
 ## Setup
