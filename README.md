@@ -4,7 +4,12 @@ This application, developed during a Dev Academy project, showcases my proficien
 
 https://charlottes-web.vercel.app/
 
-![Charlotte's Web logo](charlottes-web.png)
+# Built using:
+- TypeScript
+- React
+- CSS
+- HTML
+- JavaScript
 
 ## Setup
 
